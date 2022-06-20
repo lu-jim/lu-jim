@@ -4,7 +4,7 @@
  Hello! My name is Luis Fernando Jiménez and I'm a full-stack developer.
 -  I’m proficient in Javascript-React-Tailwind int the front-end and Ruby-Rails-Postgres in the backend 💪
 -  I’m currently learning about Vue, Nuxt.js, Headless CMS (Storyblok) and Server-side rendering technologies🌱
-- I’m looking forward to help building amazing and impactful software
+- I’m looking forward to help building amazing and impactful software 🤓
 
 
 ## GitHub profile statistics 
