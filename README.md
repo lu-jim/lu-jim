@@ -1,4 +1,4 @@
-## About me [![committers.top badge](https://user-badge.committers.top/venezuela/lu-jim.svg)](https://user-badge.committers.top/venezuela/lu-jim)
+## About me
 
 
  Hello! My name is Luis Fernando Jiménez and I'm a full-stack developer.
