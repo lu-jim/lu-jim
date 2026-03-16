@@ -2,8 +2,8 @@
 
 
  Hello! My name is Luis Fernando Jiménez and I'm a full-stack developer.
--  I’m proficient in Javascript-React-Tailwind in the front-end and Ruby-Rails-Postgres in the backend 💪
--  I’m currently learning about Hotwire, Turbo, and Stimulus🌱
+- I’m proficient in Javascript-React-Tailwind in the front-end and Ruby-Rails-Postgres in the backend 💪
+- I’m currently learning about C, Distributed systems, and AI Engineering🌱
 - I’m looking forward to help building amazing and impactful software 🤓
 
 
